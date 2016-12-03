@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * Created by Admin on 2016-11-30.
+ * Created by Admin on 2016-12-03.
  */
 @RestController
 public class PlaceController {
